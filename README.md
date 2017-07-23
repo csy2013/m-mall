@@ -3,10 +3,7 @@
 ## 项目说明：
 
 - 基于微信小程序开发的一款移动端小商城
-- 基于 weui.wxss、es6 前端技术开发
-- 基于 [wx-extend](https://github.com/skyvow/wx-extend) 第三方扩展插件（发送请求、Promise API、表单验证）
-- 前台 [m-mall](https://github.com/skyvow/m-mall)
-- 后台 [m-mall-admin](https://github.com/skyvow/m-mall-admin)
+- 基于 weui.wxss、es6 前端技术开发 
 
 ## 目录结构：
 
@@ -36,36 +33,7 @@ m-mall/
   |-app.wxss                    # 小程序公共样式表
   |-...
 ```
-
-## 项目截图:
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-11.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-12.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-13.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-01.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-02.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-03.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-04.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-05.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-06.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-14.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-07.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-08.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-09.png" width="375px" style="display:inline;">
-
-<img src="https://github.com/skyvow/m-mall/blob/master/assets/images/screenshots/screenshorts-10.png" width="375px" style="display:inline;">
+ 
 
 ##	贡献
 
